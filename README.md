@@ -20,7 +20,7 @@ I also used this project to learn MongoDB, so you will see different methods use
 
 ## Demonstration
 
-Demo the project in action at [Quizin](https://trivia-master.vercel.app)
+Demo the project in action at [Quizin](https://project-quizin.vercel.app/)
 
 ## Built With
 
